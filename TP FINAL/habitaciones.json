@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Habitación compartida",
+        "descripcion": "Habitación para hasta 6 personas, ideal para viajeros.",
+        "precio": 35000,
+        "imagen": "imagenes/habitacion-compartida.jpg",
+        "capacidad": 6,
+        "tipo": "habitacion"
+    },
+    {
+        "id": 2,
+        "nombre": "Habitación privada doble",
+        "descripcion": "Habitación privada para dos personas, cómoda y tranquila.",
+        "precio": 85000,
+        "imagen": "imagenes/habitacion-doble.jpg",
+        "capacidad": 2,
+        "tipo": "habitacion"
+    },
+    {
+        "id": 3,
+        "nombre": "Habitación individual",
+        "descripcion": "Espacio privado para una persona, ideal para descansar.",
+        "precio": 55000,
+        "imagen": "imagenes/habitacion-individual.jpg",
+        "capacidad": 1,
+        "tipo": "habitacion"
+    },
+    {
+        "id": 4,
+        "nombre": "Gorra Meliquina Hostel",
+        "descripcion": "Gorra bordada con el logo del hostel. Ideal para tus trekkings en la Patagonia.",
+        "precio": 28000,
+        "imagen": "imagenes/gorra.jpg",
+        "capacidad": null,
+        "tipo": "merchandising"
+    },
+    {
+        "id": 5,
+        "nombre": "Taza Meliquina Hostel",
+        "descripcion": "Taza de cerámica de 350ml con diseño del Lago Meliquina. Ideal para tu mate o café.",
+        "precio": 18500,
+        "imagen": "imagenes/taza.jpg",
+        "capacidad": null,
+        "tipo": "merchandising"
+    }
+]
